@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/loginimg"
+    android:exported="true">
+
+    <!-- TODO: Update blank fragment layout -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_gravity="center"
+        >
+
+        <ImageView
+            android:layout_width="301dp"
+            android:layout_height="200dp"
+            android:layout_gravity="center" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Welcome to Truyện Pro"
+            android:textColor="@color/white"
+            android:textStyle="bold"
+            android:layout_gravity="center"
+            android:textSize="25dp"
+            android:layout_margin="20dp"
+
+            />
+
+        <EditText
+            android:id="@+id/edtUsername"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:inputType="textEmailAddress"
+            android:hint="username"
+            android:textColorHint="#AA9E32"
+            android:layout_gravity="center"
+            android:drawablePadding="10dp"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/edit"
+            android:padding="20dp"/>
+        <!--            android:drawableLeft="@drawable/ic_person"-->
+        <!--            />-->
+        <EditText
+            android:id="@+id/edtPasswod"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:inputType="textPassword"
+            android:hint="Password"
+            android:textColorHint="#AA9E32"
+            android:layout_gravity="center"
+            android:drawablePadding="10dp"
+            android:layout_marginTop="15dp"
+            android:background="@drawable/edit"
+            android:padding="20dp"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="."
+            android:textColor="#EA1717"
+            android:fontFamily="sans-serif-medium"
+            android:layout_gravity="right"
+            android:layout_marginTop="20dp"
+            android:textSize="15dp"
+            android:layout_marginRight="35dp"
+            />
+        <Button
+            android:id="@+id/btnDangNhap"
+            android:layout_width="300dp"
+            android:layout_height="60dp"
+            android:layout_gravity="center"
+            android:text="Đăng nhập"
+            android:textColor="#fff"
+            android:layout_marginTop="20dp"
+
+            android:background="#04AA6D"
+            />
+        <Button
+            android:id="@+id/btnDangKy"
+            android:layout_width="300dp"
+            android:layout_height="60dp"
+            android:layout_gravity="center"
+            android:text="Đăng ký"
+            android:textColor="#fff"
+            android:layout_marginTop="20dp"
+            android:background="#f44336"
+            />
+
+    </LinearLayout>
+
+
+
+</LinearLayout>

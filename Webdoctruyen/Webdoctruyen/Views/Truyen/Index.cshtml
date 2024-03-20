@@ -1,0 +1,101 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+<button type="button" class="btn btn-warning" id="btnGetTruyen" onclick="editTruyen">GET</button>
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Tên truyện</th>
+                <th>Nội Dung</th>
+                <th>Ảnh</th>
+                <th>Tài khoản đăng tải</th>
+                <th>Voice</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody class="truyenTable"></tbody>
+    </table>
+
+
+@section Scripts{
+    
+    <script>
+        function deleteTruyen(truyenId) {
+            if (confirm('Bạn có chắc chắn muốn xóa truyện này?')) {
+                $.ajax({
+                    type: 'DELETE',
+                    url: '/api/truyen/' + truyenId,
+                    success: function (response) {
+                        // Xóa tất cả các phần tử cũ của danh sách
+                        $('.truyenTable').empty();
+                        // Load lại dữ liệu mới
+                        loadTruyenData();
+                        alert('Truyện đã được xóa thành công.');
+                    },
+                    error: function (xhr, status, error) {
+                        console.error(xhr.responseText);
+                        alert('Có lỗi xảy ra khi xóa truyện.');
+                    }
+                });
+            }
+        }
+        function editTruyen(truyenId) {
+            if (confirm('Bạn có chắc chắn muốn xóa truyện này?')) {
+                $.ajax({
+                    type: 'Edit',
+                    url: '/truyen/edit/' + truyenId,
+                    success: function (response) {
+                        // Xóa tất cả các phần tử cũ của danh sách
+                        $('.truyenTable').empty();
+                        // Load lại dữ liệu mới
+                        loadTruyenData();
+                        alert('Truyện đã được xóa thành công.');
+                    },
+                    error: function (xhr, status, error) {
+                        console.error(xhr.responseText);
+                        alert('Có lỗi xảy ra khi xóa truyện.');
+                    }
+                });
+            }
+        }
+        function loadTruyenData() {
+            $.ajax({
+                type: 'GET',
+                url: '/api/truyen/',
+                success: function (response) {
+                    response.forEach(truyenRow => {
+                        var iconHtml = truyenRow.voice ? '<i class="fas fa-check"></i>' : '<i class="fas fa-times"></i>';
+                        var htmlString = '<tr><th>' + truyenRow.id +
+                            '</th><th>' + truyenRow.tentruyen + '</th><th>'
+                            + truyenRow.noidung + '</th><th>'
+                            + '<img src = "' + truyenRow.anh + '" class="thumbnail-img" /> </th><th>'
+                            + truyenRow.idTk + '</th><th>'
+                            + iconHtml + '</th><th>'
+                            + '<a class="btn btn-primary" href="/truyen/edit/' + truyenRow.id + '">Edit</a> '
+                            + '<a class="btn btn-primary" href="/truyen/addvoiceTruyen/' + truyenRow.id + '">Addvoice</a> '
+                            + '<button class="btn btn-danger" onclick="deleteTruyen(' + truyenRow.id + ')">Delete</button> '
+                            + '<a href="/Truyen/Detail/' + truyenRow.id + '" class="btn btn-info">Detail</a>'
+                            + '</th></tr>';
+                        $('.truyenTable').append(htmlString);
+                    });
+                },
+                error: function (xhr, status, error) {
+                    console.error(xhr.responseText);
+                    alert('Có lỗi xảy ra khi tải dữ liệu truyện.');
+                }
+            });
+        }
+
+        $(document).ready(function () {
+            loadTruyenData();
+        });
+
+    </script>
+}

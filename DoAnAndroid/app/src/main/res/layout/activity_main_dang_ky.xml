@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainDangKy">
+    <TextView
+        android:textColor="#4CAF50"
+        android:layout_marginTop="100dp"
+        android:textSize="40sp"
+        android:textStyle="bold"
+        android:layout_gravity="center"
+        android:text="Đăng ký"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"></TextView>
+
+    <EditText
+        android:id="@+id/dkTaiKhoan"
+        android:layout_width="250dp"
+        android:layout_height="60dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="90dp"
+        android:drawableRight="@drawable/ic_taikhoan"
+        android:hint="Tài Khoản"></EditText>
+
+    <EditText
+        android:id="@+id/dkMatKhau"
+        android:layout_width="250dp"
+        android:layout_height="60dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:drawableRight="@drawable/ic_matkhau"
+        android:hint="Mật Khẩu"></EditText>
+
+    <EditText
+        android:id="@+id/dkEmail"
+        android:layout_width="250dp"
+        android:layout_height="59dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:drawableRight="@drawable/ic_email"
+        android:hint="Email"></EditText>
+
+    <Button
+        android:id="@+id/dkDangKy"
+        android:layout_width="235dp"
+        android:layout_height="65dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:background="#008CBA"
+        android:text="Đăng ký"
+        android:textColor="@color/white"></Button>
+
+    <Button
+        android:id="@+id/dkDangNhap"
+        android:layout_width="230dp"
+        android:layout_height="71dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:background="#f44336"
+        android:text="Trở về Đăng Nhập"
+        android:textColor="@color/white"></Button>
+</LinearLayout>

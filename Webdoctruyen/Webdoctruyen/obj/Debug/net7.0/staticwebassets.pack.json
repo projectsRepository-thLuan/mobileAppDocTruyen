@@ -1,0 +1,321 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\WebAPI\\Webdoctruyen\\Webdoctruyen\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Webdoctruyen.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Webdoctruyen.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\WebAPI\\Webdoctruyen\\Webdoctruyen\\wwwroot\\UpLoad\\Image\\0842fa25-96a5-48e7-afdc-c1c87c0bca29.jpg",
+      "PackagePath": "staticwebassets\\UpLoad\\Image\\0842fa25-96a5-48e7-afdc-c1c87c0bca29.jpg"
+    },
+    {
+      "Id": "D:\\WebAPI\\Webdoctruyen\\Webdoctruyen\\wwwroot\\UpLoad\\Image\\393917750_334814869201146_7609998271764154144_n.jpg",
+      "PackagePath": "staticwebassets\\UpLoad\\Image\\393917750_334814869201146_7609998271764154144_n.jpg"
+    },
+    {
+      "Id": "D:\\WebAPI\\Webdoctruyen\\Webdoctruyen\\wwwroot\\UpLoad\\Image\\Dinh-thu-bien-Gran-Melia-Nha-Trang.jpg",
+      "PackagePath": "staticwebassets\\UpLoad\\Image\\Dinh-thu-bien-Gran-Melia-Nha-Trang.jpg"
+    },
+    {
+      "Id": "D:\\WebAPI\\Webdoctruyen\\Webdoctruyen\\wwwroot\\UpLoad\\Image\\IMG_2925.JPG",
+      "PackagePath": "staticwebassets\\UpLoad\\Image\\IMG_2925.JPG"
+    },
+    {
+      "Id": "D:\\WebAPI\\Webdoctruyen\\Webdoctruyen\\wwwroot\\UpLoad\\Image\\IMG_2934.JPG",
+      "PackagePath": "staticwebassets\\UpLoad\\Image\\IMG_2934.JPG"
+    },
+    {
+      "Id": "D:\\WebAPI\\Webdoctruyen\\Webdoctruyen\\wwwroot\\UpLoad\\Image\\abc.jpg",
+      "PackagePath": "staticwebassets\\UpLoad\\Image\\abc.jpg"
+    },
+    {
+      "Id": "D:\\WebAPI\\Webdoctruyen\\Webdoctruyen\\wwwroot\\UpLoad\\Image\\blue-wallpaper-13.jpg",
+      "PackagePath": "staticwebassets\\UpLoad\\Image\\blue-wallpaper-13.jpg"
+    },
+    {
+      "Id": "D:\\WebAPI\\Webdoctruyen\\Webdoctruyen\\wwwroot\\UpLoad\\Image\\z4742661194140_0fdf8bf9894f331204dff985e49f9336.jpg",
+      "PackagePath": "staticwebassets\\UpLoad\\Image\\z4742661194140_0fdf8bf9894f331204dff985e49f9336.jpg"
+    },
+    {
+      "Id": "D:\\WebAPI\\Webdoctruyen\\Webdoctruyen\\wwwroot\\UpLoad\\Image\\z4742661200561_a86891ca8d86a563a267ce58049a16b5.jpg",
+      "PackagePath": "staticwebassets\\UpLoad\\Image\\z4742661200561_a86891ca8d86a563a267ce58049a16b5.jpg"
+    },
+    {
+      "Id": "D:\\WebAPI\\Webdoctruyen\\Webdoctruyen\\wwwroot\\UpLoad\\Image\\z4742661212864_dba819b5ccbcb252b408675ddcd50746.jpg",
+      "PackagePath": "staticwebassets\\UpLoad\\Image\\z4742661212864_dba819b5ccbcb252b408675ddcd50746.jpg"
+    },
+    {
+      "Id": "D:\\WebAPI\\Webdoctruyen\\Webdoctruyen\\wwwroot\\UpLoad\\Image\\z4742661224186_9e5953df17b85160a36f7ac5f2371fe0.jpg",
+      "PackagePath": "staticwebassets\\UpLoad\\Image\\z4742661224186_9e5953df17b85160a36f7ac5f2371fe0.jpg"
+    },
+    {
+      "Id": "D:\\WebAPI\\Webdoctruyen\\Webdoctruyen\\wwwroot\\UpLoad\\Voice\\file.mp3",
+      "PackagePath": "staticwebassets\\UpLoad\\Voice\\file.mp3"
+    },
+    {
+      "Id": "D:\\WebAPI\\Webdoctruyen\\Webdoctruyen\\wwwroot\\UpLoad\\Voice\\file1.mp3",
+      "PackagePath": "staticwebassets\\UpLoad\\Voice\\file1.mp3"
+    },
+    {
+      "Id": "D:\\WebAPI\\Webdoctruyen\\Webdoctruyen\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\WebAPI\\Webdoctruyen\\Webdoctruyen\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\WebAPI\\Webdoctruyen\\Webdoctruyen\\wwwroot\\file.mp3",
+      "PackagePath": "staticwebassets\\file.mp3"
+    },
+    {
+      "Id": "D:\\WebAPI\\Webdoctruyen\\Webdoctruyen\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\WebAPI\\Webdoctruyen\\Webdoctruyen\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\WebAPI\\Webdoctruyen\\Webdoctruyen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\WebAPI\\Webdoctruyen\\Webdoctruyen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\WebAPI\\Webdoctruyen\\Webdoctruyen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\WebAPI\\Webdoctruyen\\Webdoctruyen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\WebAPI\\Webdoctruyen\\Webdoctruyen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\WebAPI\\Webdoctruyen\\Webdoctruyen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\WebAPI\\Webdoctruyen\\Webdoctruyen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\WebAPI\\Webdoctruyen\\Webdoctruyen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\WebAPI\\Webdoctruyen\\Webdoctruyen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\WebAPI\\Webdoctruyen\\Webdoctruyen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\WebAPI\\Webdoctruyen\\Webdoctruyen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\WebAPI\\Webdoctruyen\\Webdoctruyen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\WebAPI\\Webdoctruyen\\Webdoctruyen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\WebAPI\\Webdoctruyen\\Webdoctruyen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\WebAPI\\Webdoctruyen\\Webdoctruyen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\WebAPI\\Webdoctruyen\\Webdoctruyen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\WebAPI\\Webdoctruyen\\Webdoctruyen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\WebAPI\\Webdoctruyen\\Webdoctruyen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\WebAPI\\Webdoctruyen\\Webdoctruyen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\WebAPI\\Webdoctruyen\\Webdoctruyen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\WebAPI\\Webdoctruyen\\Webdoctruyen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\WebAPI\\Webdoctruyen\\Webdoctruyen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\WebAPI\\Webdoctruyen\\Webdoctruyen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\WebAPI\\Webdoctruyen\\Webdoctruyen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\WebAPI\\Webdoctruyen\\Webdoctruyen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\WebAPI\\Webdoctruyen\\Webdoctruyen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\WebAPI\\Webdoctruyen\\Webdoctruyen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\WebAPI\\Webdoctruyen\\Webdoctruyen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\WebAPI\\Webdoctruyen\\Webdoctruyen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\WebAPI\\Webdoctruyen\\Webdoctruyen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\WebAPI\\Webdoctruyen\\Webdoctruyen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\WebAPI\\Webdoctruyen\\Webdoctruyen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\WebAPI\\Webdoctruyen\\Webdoctruyen\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\WebAPI\\Webdoctruyen\\Webdoctruyen\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\WebAPI\\Webdoctruyen\\Webdoctruyen\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\WebAPI\\Webdoctruyen\\Webdoctruyen\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\WebAPI\\Webdoctruyen\\Webdoctruyen\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\WebAPI\\Webdoctruyen\\Webdoctruyen\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\WebAPI\\Webdoctruyen\\Webdoctruyen\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\WebAPI\\Webdoctruyen\\Webdoctruyen\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\WebAPI\\Webdoctruyen\\Webdoctruyen\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\WebAPI\\Webdoctruyen\\Webdoctruyen\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\WebAPI\\Webdoctruyen\\Webdoctruyen\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\WebAPI\\Webdoctruyen\\Webdoctruyen\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\WebAPI\\Webdoctruyen\\Webdoctruyen\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\WebAPI\\Webdoctruyen\\Webdoctruyen\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\WebAPI\\Webdoctruyen\\Webdoctruyen\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\WebAPI\\Webdoctruyen\\Webdoctruyen\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\WebAPI\\Webdoctruyen\\Webdoctruyen\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\WebAPI\\Webdoctruyen\\Webdoctruyen\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\WebAPI\\Webdoctruyen\\Webdoctruyen\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\WebAPI\\Webdoctruyen\\Webdoctruyen\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\WebAPI\\Webdoctruyen\\Webdoctruyen\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\WebAPI\\Webdoctruyen\\Webdoctruyen\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\WebAPI\\Webdoctruyen\\Webdoctruyen\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\WebAPI\\Webdoctruyen\\Webdoctruyen\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Webdoctruyen.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Webdoctruyen.props",
+      "PackagePath": "build\\Webdoctruyen.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Webdoctruyen.props",
+      "PackagePath": "buildMultiTargeting\\Webdoctruyen.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Webdoctruyen.props",
+      "PackagePath": "buildTransitive\\Webdoctruyen.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,28 @@
+﻿<input type="text" class="form-control" id="urlmp3">
+<button id="download" class="btn btn-success" >Download</button>
+
+@section Scripts{
+    
+    <script>
+        var url = document.getElementById("urlmp3");
+        var btnDownload = document.getElementById("download");
+        btnDownload.addEventListener("click", function(){
+            var mp3URL = url.value;
+            if(mp3URL.trim !== ""){
+                $.ajax({
+                    type:"Post",
+                    url:"Home/DownloadMp3",
+                    data:{ url: mp3URL },
+                    success: function(responce){
+                        alert("Đã lưu thành công");
+                    },
+                    error: function(xhr,status,error){
+                        alert("Lưu không thành công");
+                    }
+                });
+            } else {
+                alert("Please enter a valid URL");
+            }
+        });
+    </script>
+}

@@ -1,0 +1,48 @@
+﻿@model Webdoctruyen.Models.Truyen
+
+@{
+    ViewData["Title"] = "AddVoiceTruyen";
+}
+
+<h1>AddVoiceTruyen</h1>
+
+<h4>Truyen</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="AddVoiceTruyen">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <input hidden asp-for="Id" class="form-control" />
+            </div>
+            <div class="form-group">
+                <input hidden asp-for="Tentruyen" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label class="control-label">Nội dung cần chuyển đổi</label>
+                <textarea asp-for="Noidung" class="form-control"></textarea>
+                <span asp-validation-for="Noidung" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input hidden asp-for="Anh" class="form-control" />
+            </div>
+            <div class="form-group">
+                <input hidden asp-for="Voice" class="form-control" />
+            </div>
+            <div class="form-group">
+                <input hidden asp-for="IdTk" class="form-control" />
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Thêm" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
